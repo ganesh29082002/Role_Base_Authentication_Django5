@@ -10,6 +10,16 @@ This project is a Django 5 web application that implements role-based authentica
 - **User Management Page**: Accessible only to users with the `admin` role.
 - **Redirection Logic**: Authenticated users are redirected to the dashboard when attempting to access the login or registration pages. Unauthenticated users are redirected to the login page when trying to access private pages.
 
+## Project Preview
+- **User Registration Page**:
+  ![Register Page](images/Register.png)
+- **User Login Page**:
+  ![Login page Page](images/Login.png)
+- **Admin Dashboard Page**: Here you can see admin can see manage user page 
+ ![Asmin Dashboard Page](images/admin_dashboard.png)
+- **User Dashboard Page**: Here user can not see manage user tab and page  
+  ![User Dashboard Page](images/user_dashboard.png)
+
 
 markdown
 Copy code
